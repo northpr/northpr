@@ -6,8 +6,10 @@
 - [🚴‍♀️ Go to my portfolio](https://github.com/northpr)
 
 - My interesting data science projects:
-  - [Germany rental analysis and create machine learning.](https://github.com/northpr/GermanyRentalPrice) - PyCaret
-  - [Deep analysis of price in Spanish train.](https://github.com/northpr/SpanishTrain) - with Python and R
+  - [Germany rental analysis and comparison between machine learning.](https://github.com/northpr/GermanyRentalPrice) - PyCaret
+  - [Deep analysis of train price in Spain.](https://github.com/northpr/SpanishTrain) - with Python and R
+
+- 👀 Looking for collaboration in NLP and Cryptocurrency.
 <!---
 northpr/northpr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
