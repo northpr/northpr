@@ -6,8 +6,8 @@
 - [🚴‍♀️ Go to my portfolio](https://github.com/northpr)
 
 - My exciting data science projects:
-  - [Germany Rental Analysis include Cleaning, Virtualization and Machine Learning (including PyCaret).](https://github.com/northpr/GermanyRentalPrice) - PyCaret
-  - [Deep analysis of train price in Spain with Python and R.](https://github.com/northpr/SpanishTrain)
+  - [Germany Rental - Python](https://github.com/northpr/GermanyRentalPrice) - PyCaret
+  - [Train Spain - Python and R](https://github.com/northpr/SpanishTrain)
 
 
 - 👀 Looking for collaboration in NLP, Data Science and Cryptocurrency.
