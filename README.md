@@ -9,7 +9,24 @@
   - [Germany Rental Analysis include Cleaning, Virtualization and Machine Learning (including PyCaret).](https://github.com/northpr/GermanyRentalPrice) - PyCaret
   - [Deep analysis of train price in Spain with Python and R.](https://github.com/northpr/SpanishTrain)
 
-- 👀 Looking for collaboration in NLP and Cryptocurrency.
+
+- 👀 Looking for collaboration in NLP, Data Science and Cryptocurrency.
+
+<b>Skills</b>
+I am experienced in
+  - Data Science 
+    - Python (Numpy, Pandas, Matplotlib, Scikit-learn, Tensorflow, Keras)
+    - R (ggplot, rocr), SQL.
+    - Data Science Pipeline (Cleaning, Virtualization, Modeling)
+    - Regression, Classification, Clustering
+    - DeepLearning (Sentiment Analysis)
+  - BI Tools - Google Data Studio
+  - Miscellaneous Technologies
+    - SQL (PostgresSQL) and NoSQL Database (MongoDB)
+    - API (FastAPI, Flask)
+    - Apache Spark (PySpark)
+  - Deployment Tools
+    - Docker, Git, Heroku
 <!---
 northpr/northpr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
