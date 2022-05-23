@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Master's Degree Student in Computer Science, Data Scientist and Part-Time Lecturer. </h3> 
 
 - 💞️ I’m looking to collaborate on Kaggle : https://www.kaggle.com/northpatawee
-- 📫 How to reach for work or collaboration : northpatawee@gmail.com, https://www.linkedin.com/in/northpatawee/
+- 📫 Looking for work in Berlin: [Linkedin](https://www.linkedin.com/in/northpatawee/), [Mail](northpatawee@gmail.com)
 - [🚴‍♀️ Go to my portfolio](https://github.com/northpr)
 
 - My exciting data science projects:
