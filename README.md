@@ -1,5 +1,5 @@
-- 👋 Hi, I’m North @northpr
-- 🌱 I’m currently study in Computer Science, Master
+<h1 align="center">Hey <img src="Hi.gif" width="40px" />, I'm Giuliano</h1>
+<h3 align="center">I'm an Master Degree in Computer Science, Freelance Data Scientist and Part-Time Lecturer </h3> 
 - 💞️ I’m looking to collaborate on Kaggle : https://www.kaggle.com/northpatawee
 - 📫 How to reach for work or collaboration : https://www.datascienceportfol.io/northpr, northpatawee@gmail.com, https://www.linkedin.com/in/northpatawee/
 
