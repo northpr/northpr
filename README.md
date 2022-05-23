@@ -5,6 +5,8 @@
 - 📫 How to reach for work or collaboration : northpatawee@gmail.com, https://www.linkedin.com/in/northpatawee/
 - [📫 Go to my portfolio](https://github.com/northpr)
 
+- My interesting data science projects:
+  - [GermanyRentalAnalysis](https://github.com/northpr/GermanyRentalPrice)
 <!---
 northpr/northpr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
