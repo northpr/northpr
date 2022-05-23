@@ -3,7 +3,7 @@
 
 <h4>📫 Looking for work in Data Field in Germany</h4>
 
-- 🧑‍🔬 Contact for work at: [Linkedin](https://www.linkedin.com/in/northpatawee/), [Mail](northpatawee@gmail.com)
+- 🧑‍🔬 Contact for work at: [Linkedin](https://www.linkedin.com/in/northpatawee/), [Mail](mailto:northpatawee@gmail.com)
 - 💞️ I’m looking to collaborate on [Kaggle](https://www.kaggle.com/northpatawee)
 - [🚴‍♀️ Go to my portfolio](https://github.com/northpr)
 
@@ -14,7 +14,7 @@
 
 - 👀 Looking for collaboration in NLP, Data Science and Cryptocurrency.
 
-<b>Skills</b>
+### Skills
   - Data Science 
     - Python (Numpy, Pandas, Matplotlib, Scikit-learn, Tensorflow, Keras)
     - R (ggplot, rocr), SQL.
@@ -28,7 +28,29 @@
     - Apache Spark (PySpark)
   - Deployment Tools
     - Docker, Git, Heroku
+  
+  ### Language and Tools
+  
+<!-- Python -->
+<img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<!-- scikit-learn -->
+<img align="left" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />    
+
 <!---
 northpr/northpr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### Social
+
+   <a href="https://github.com/northpr">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/northpatawee/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+  <a href="mailto:northpatawee@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>&nbsp;&nbsp;
