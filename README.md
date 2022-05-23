@@ -13,7 +13,6 @@
 - 👀 Looking for collaboration in NLP, Data Science and Cryptocurrency.
 
 <b>Skills</b>
-I am experienced in
   - Data Science 
     - Python (Numpy, Pandas, Matplotlib, Scikit-learn, Tensorflow, Keras)
     - R (ggplot, rocr), SQL.
