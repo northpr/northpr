@@ -1,7 +1,7 @@
 <h1 align="center">Hi Everyone! <img src="Hi.gif" width="40px" />, I'm North ✋</h1>
 <h3 align="center">I'm a Master's Degree Student in Computer Science, Data Scientist and Part-Time Lecturer. </h3> 
 
-<h4>📫 Looking for work in Data Field in Germany</h4>
+<h4>📫 Looking for work in Data Field in Germany or Thailand</h4>
 
 - 🧑‍🔬 Contact for work at: [Linkedin](https://www.linkedin.com/in/northpatawee/), [Mail](mailto:northpatawee@gmail.com)
 - 💞️ I’m looking to collaborate on [Kaggle](https://www.kaggle.com/northpatawee)
@@ -19,8 +19,8 @@
     - Python (Numpy, Pandas, Matplotlib, Scikit-learn, Tensorflow, Keras)
     - R (ggplot, rocr), SQL.
     - Data Science Pipeline (Cleaning, Virtualization, Modeling)
-    - Regression, Classification, Clustering
-    - DeepLearning (Sentiment Analysis)
+    - Machine Learning (Supervised, Unsupervised Learning)
+    - DeepLearning (Object Detection, Sentiment Analysis)
   - BI Tools - Google Data Studio
   - Miscellaneous Technologies
     - SQL (PostgresSQL) and NoSQL Database (MongoDB)
