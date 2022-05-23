@@ -5,9 +5,9 @@
 - 📫 How to reach for work or collaboration : northpatawee@gmail.com, https://www.linkedin.com/in/northpatawee/
 - [🚴‍♀️ Go to my portfolio](https://github.com/northpr)
 
-- My interesting data science projects:
-  - [Germany rental analysis and comparison between machine learning.](https://github.com/northpr/GermanyRentalPrice) - PyCaret
-  - [Deep analysis of train price in Spain.](https://github.com/northpr/SpanishTrain) - with Python and R
+- My exciting data science projects:
+  - [Germany Rental Analysis include Cleaning, Virtualization and Machine Learning (including PyCaret).](https://github.com/northpr/GermanyRentalPrice) - PyCaret
+  - [Deep analysis of train price in Spain with Python and R.](https://github.com/northpr/SpanishTrain)
 
 - 👀 Looking for collaboration in NLP and Cryptocurrency.
 <!---
