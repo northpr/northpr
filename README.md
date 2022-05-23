@@ -8,10 +8,10 @@
 - [🚴‍♀️ Go to my portfolio](https://github.com/northpr)
 
 - My exciting data science projects:
-  - [Germany Rental](https://github.com/northpr/GermanyRentalPrice) - Python, PyCaret
-  - [Train Spain](https://github.com/northpr/SpanishTrain) - Python, R
-  - [Fraud Analyst with imbalanced datasets](https://www.kaggle.com/code/northpatawee/fraud-analyst-and-imbalanced-datasets/notebook) - Python
-  - [Crypto Time-Series Analysis](https://www.kaggle.com/code/northpatawee/crypto-forecasting-exploratory-data-analysis/notebook) - Python, Plotly
+  - [Entire data science process with Germany Rental](https://github.com/northpr/GermanyRentalPrice) - Python, PyCaret
+  - [Deep analysis on Spain train](https://github.com/northpr/SpanishTrain) - Python, R
+  - [Fraud analyst with imbalanced datasets](https://www.kaggle.com/code/northpatawee/fraud-analyst-and-imbalanced-datasets/notebook) - Python
+  - [Crypto time-series analysis](https://www.kaggle.com/code/northpatawee/crypto-forecasting-exploratory-data-analysis/notebook) - Python, Plotly
 
 
 - 👀 Looking for collaboration in NLP, Data Science and Cryptocurrency.
