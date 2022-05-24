@@ -1,4 +1,4 @@
-<h1 align="center">Hi Everyone! <img src="Hi.gif" width="40px" />, I'm North ✋</h1>
+<h1 align="center">Hi Everyone!, I'm North ✋</h1>
 <h3 align="center">I'm a Master's Degree Student in Computer Science, Data Scientist and Part-Time Lecturer. </h3> 
 
 <h4>📫 Looking for work in Data Field in Germany or Thailand</h4>
