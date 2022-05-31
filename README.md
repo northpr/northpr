@@ -5,7 +5,6 @@
 
 - 🧑‍🔬 Contact for work at: [Linkedin](https://www.linkedin.com/in/northpatawee/), [Mail](mailto:northpatawee@gmail.com)
 - 💞️ I’m looking to collaborate on [Kaggle](https://www.kaggle.com/northpatawee)
-- [🚴‍♀️ Go to my portfolio](https://github.com/northpr)
 
 - My exciting data science projects:
   - [Entire data science process with Germany Rental](https://github.com/northpr/GermanyRentalPrice)
