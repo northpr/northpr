@@ -28,7 +28,6 @@
     - SQL (PostgresSQL) and NoSQL Database (MongoDB)
     - API (FastAPI, Flask)
     - Apache Spark (PySpark)
-  - Deployment Tools
     - Docker, Git, Heroku
   
   ### Language and Tools
