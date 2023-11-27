@@ -8,7 +8,6 @@
 
 - My exciting data science projects:
   - [Entire data science process with Germany Rental](https://github.com/northpr/GermanyRentalPrice)
-  - [Deep analysis on Spain train](https://github.com/northpr/SpanishTrain)
   - [Fraud analyst with imbalanced datasets](https://www.kaggle.com/code/northpatawee/fraud-analyst-and-imbalanced-datasets/notebook)
   - [Crypto time-series analysis](https://www.kaggle.com/code/northpatawee/crypto-forecasting-exploratory-data-analysis/notebook)
   - [Sentiment Analysis from Twitter Data](https://github.com/northpr/nlp-flaskdocker)
@@ -18,13 +17,11 @@
 
 ### Skills
   - Data Science 
-    - Python (Numpy, Pandas, Matplotlib, Scikit-learn, Tensorflow, Keras)
-    - R (ggplot, rocr), SQL.
-    - Data Science Pipeline (Cleaning, Virtualization, Modeling)
+    - Python (Numpy, Pandas, Matplotlib, Scikit-learn, Tensorflow, Keras), SQL, R
     - Machine Learning (Supervised, Unsupervised Learning)
-    - DeepLearning (Object Detection, Sentiment Analysis)
-  - BI Tools - Google Data Studio
-  - Miscellaneous Technologies
+    - DeepLearning
+  - BI Tools - Tableau
+  - Others
     - SQL (PostgresSQL) and NoSQL Database
     - API (FastAPI, Flask)
     - Apache Spark (PySpark)
